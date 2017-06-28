@@ -29,7 +29,7 @@
 ===============================================================================
 */
 #include "pulsezip.hpp"
-#include "mydefs.hpp"
+#include "mydefs_pw.hpp"
 #include "bytestreamin.hpp"
 #include "bytestreamout.hpp"
 #include <assert.h>
