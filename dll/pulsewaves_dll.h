@@ -35,6 +35,7 @@
 #define PULSEWAVES_DLL_H
 
 #include <math.h>
+#include <stdint.h>
 
 #ifdef _WIN32
 #   ifdef PULSEWAVES_DYN_LINK
@@ -62,7 +63,7 @@ typedef unsigned int       pulsewaves_U32;
 typedef char               pulsewaves_I8;
 typedef short              pulsewaves_I16;
 typedef int                pulsewaves_I32;
-typedef __int64            pulsewaves_I64;
+typedef int64_t            pulsewaves_I64;
 typedef char               pulsewaves_CHAR;
 typedef float              pulsewaves_F32;
 typedef double             pulsewaves_F64;
