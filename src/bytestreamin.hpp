@@ -34,7 +34,7 @@
 #ifndef BYTE_STREAM_IN_HPP
 #define BYTE_STREAM_IN_HPP
 
-#include "mydefs.hpp"
+#include "mydefs_pw.hpp"
 
 class ByteStreamIn
 {

@@ -37,7 +37,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "mydefs.hpp"
+#include "mydefs_pw.hpp"
 
 /* this header byte needs to change in case incompatible change happen */
 #define AC_HEADER_BYTE 2

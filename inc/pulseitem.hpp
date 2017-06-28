@@ -34,7 +34,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-#include "mydefs.hpp"
+#include "mydefs_pw.hpp"
 #include "pulsewavesdefinitions.hpp"
 
 class PULSEitem

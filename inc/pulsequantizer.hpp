@@ -32,7 +32,7 @@
 #ifndef PULSE_QUANTIZER_HPP
 #define PULSE_QUANTIZER_HPP
 
-#include "mydefs.hpp"
+#include "mydefs_pw.hpp"
 
 class PULSEquantizer
 {

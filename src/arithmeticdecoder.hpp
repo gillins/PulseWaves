@@ -35,7 +35,7 @@
 #ifndef ARITHMETIC_DECODER_HPP
 #define ARITHMETIC_DECODER_HPP
 
-#include "mydefs.hpp"
+#include "mydefs_pw.hpp"
 #include "bytestreamin.hpp"
 
 class ArithmeticModel;

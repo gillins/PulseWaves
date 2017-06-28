@@ -33,7 +33,7 @@
 #define PULSE_VLRS_HPP
 
 #include <stdio.h>
-#include "mydefs.hpp"
+#include "mydefs_pw.hpp"
 #include "pulsewavesdefinitions.hpp"
 
 class ByteStreamIn;

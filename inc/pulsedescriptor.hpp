@@ -33,7 +33,7 @@
 #ifndef PULSE_DESCRIPTOR_HPP
 #define PULSE_DESCRIPTOR_HPP
 
-#include "mydefs.hpp"
+#include "mydefs_pw.hpp"
 #include "pulsewavesdefinitions.hpp"
 
 class ByteStreamIn;

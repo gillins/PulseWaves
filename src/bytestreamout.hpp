@@ -34,7 +34,7 @@
 #ifndef BYTE_STREAM_OUT_HPP
 #define BYTE_STREAM_OUT_HPP
 
-#include "mydefs.hpp"
+#include "mydefs_pw.hpp"
 
 class ByteStreamOut
 {

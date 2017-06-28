@@ -31,7 +31,7 @@
 #ifndef WAVES_WAVES_HPP
 #define WAVES_WAVES_HPP
 
-#include "mydefs.hpp"
+#include "mydefs_pw.hpp"
 
 #include <stdio.h>
 
